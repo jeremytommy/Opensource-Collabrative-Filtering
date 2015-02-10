@@ -115,12 +115,3 @@ done.
     $recommendedItems = $openslopeone->getRecommendedItemsByUser(30002);
 
 
-=====================================================
-About Author
-=====================================================
-
-I am a PHP programmer in China, my blog:http://chaoqun.17348.com, mostly written in Chinese.
-
-You can contack me with Gtalk or mail:fuchaoqun@gmail.com
-
-welcom to any bug and advice.
